@@ -29,10 +29,7 @@ And browse to localhost:4567. Here you will find more information regarding how 
 
 ### Planned Improvements
 
-* Modernizr
-* Rake stats task
-* Replace JQuery Mobile with responsive Bootstrap layouts
-* Lots more still under consideration
+I no longer actively contribute to this project anymore. I switched to Rails and then more recently I have been experimenting with Google App Engine. I will still leave this project here in case anyone finds it useful.
 
 ### Issues & Feedback
 
